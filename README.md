@@ -1,62 +1,42 @@
-#Java Learning Portal
+# 💻 Java Learning Portal
 
-The Java Learning Portal is a desktop-based interactive learning platform designed to teach Java programming with real-time code execution, progress tracking, and dual dashboards for students and teachers. It bridges the gap between theory and practical coding by offering a built-in compiler and structured learning modules.
+The **Java Learning Portal** is a desktop-based learning platform built to help beginners practice Java with real-time code execution, topic-wise learning flow, and student progress tracking. It includes separate dashboards for students and teachers, making it ideal for academic learning environments.
 
-🚀 Key Features
+---
 
-✅ Student & Teacher login system
+## 🚀 Features
 
-🧠 Structured learning path across core Java topics
+- ✅ Student & Teacher Login
+- 📚 Structured Java learning modules (7 topics)
+- ▶️ Built-in code editor & compiler (javac)
+- 📊 Real-time progress tracking
+- 🔐 Topic unlocking based on completion
+- 💾 File-based data storage (no database required)
+- 🪟 User-friendly Java Swing UI
+- ⚙️ Hands-on Java OOP implementation
 
-▶️ Built-in Java code editor & compiler
+---
 
-📊 Real-time student progress tracking
+## 🛠 Tech Stack
 
-🔓 Automatic topic unlocking based on completion
+| Component | Technology |
+|----------|-----------|
+| Language | Java |
+| GUI | Java Swing |
+| Compiler | ProcessBuilder (javac) |
+| Storage | File-based serialization |
+| Architecture | OOP + MVC |
 
-💾 File-based data persistence (no database required)
+---
 
-🪟 Clean Java Swing GUI
+## 📂 How to Run
 
-🧪 Immediate feedback on code execution
+```bash
+# Prerequisites
+✔ Install JDK 11 or higher
+✔ Use NetBeans / IntelliJ / VS Code
 
-🛠️ Tech Stack
-Component	Technology
-Language	Java
-GUI	Java Swing
-Compiler	ProcessBuilder (javac runtime execution)
-Storage	File-based serialization
-Architecture	OOP + MVC structure
-📚 Modules
-
-Student Dashboard
-
-Teacher Dashboard
-
-Topic-wise theory & exercises
-
-Code execution & output console
-
-Progress bars & analytics view
-
-📂 How to Run
-# Install JDK 11+
-# Open project in NetBeans / IntelliJ / VS Code
-
-Compile and run LoginPage.java (or Main Entry File)
-
-🎯 Future Enhancements
-
-DB integration (MySQL/PostgreSQL)
-
-Online multi-user access
-
-Encrypted authentication
-
-Gamification (badges, leaderboard)
-
-AI-based code feedback
-
-📎 Project Use Case
-
-Designed for beginner programmers & academic learning, enabling structured Java practice and easy monitoring by instructors.
+# Steps
+1. Clone or download this repository
+2. Open project in your Java IDE
+3. Run the `LoginPage.java` (or main entry file)
