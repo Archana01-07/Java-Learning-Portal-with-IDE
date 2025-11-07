@@ -40,3 +40,35 @@ The **Java Learning Portal** is a desktop-based learning platform built to help 
 1. Clone or download this repository
 2. Open project in your Java IDE
 3. Run the `LoginPage.java` (or main entry file)
+
+)
+
+🎯 Ideal For
+
+Students learning Java
+
+Colleges & training programs
+
+Beginners who want built-in compile & learn system
+
+🌟 Future Enhancements
+
+Database expansion (MySQL/PostgreSQL)
+
+Cloud sync for student data
+
+Gamification (badges, leaderboard)
+
+AI-based code review & suggestions
+
+Web & mobile version
+
+📜 Authors
+
+SR Archana
+
+S Sri Varsha
+
+📅 Academic Project
+
+Submitted to Easwari Engineering College as part of B.E — Computer Science and Design
